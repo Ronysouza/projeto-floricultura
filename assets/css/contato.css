@@ -1,0 +1,31 @@
+textarea {
+	  
+	  height: 200px;
+}
+
+.formulario{
+	border:1px solid #ddd;
+	padding: 10px;
+	margin: 20px;
+	border-left: 2px solid  #6B0401;
+	border-radius: 5px;
+	  box-shadow: 2px 1px 10px  #EE4F4A;
+}
+
+input[name="contato"].form-control::-webkit-input-placeholder {
+  color: #000;
+
+}
+
+input{
+
+    width: 100%;
+    padding-left: 11px;
+    /* border: 1px solid #000; */
+ 
+    border: none;
+    margin: 1px;
+    border-radius: 5px;
+ 
+
+}

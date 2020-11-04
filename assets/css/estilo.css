@@ -1,0 +1,199 @@
+
+
+body{
+
+font-family: arial Narrow;
+
+}
+
+.menu-mobile{
+	padding: 10px;
+}
+
+button{
+padding-right: 10px;
+padding-left: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+float: left;
+
+}
+
+
+.topo{
+
+
+	background-color: #6B0401;
+
+}
+
+
+.topo-info{
+
+	float: right;
+	color: #ddd;
+	font-size: 18px;
+}
+
+
+.topo-info img{
+	margin-left: 20px;
+	margin-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.menu{
+text-align: center;
+ 
+
+}
+
+.menu img{
+	padding: 20px;
+	
+
+}
+
+
+.menu-info{
+	 
+ 
+}
+ 
+.menu-info ul{
+	list-style: none;
+}
+
+.menu-info li{
+	display: inline-block;
+	line-height: 150px;
+	border-left: 1px solid #ddd;
+	padding: 30px;
+	height: 200px;
+ 
+	 
+	 }
+
+.menu-info li:hover{
+	 
+	 
+	cursor: pointer;
+	 
+    border-bottom-right-radius: 20px;
+     border-bottom-left-radius: 20px;
+     
+background-color: #6B0401;
+       color: #fff;
+	
+}
+
+.menu-info a{
+
+
+font-size: 22px;
+color: #999;
+
+}
+
+
+.rodape{
+  background-color: #6B0401;
+	padding: 50px;
+	color: #999;
+  
+
+
+}
+.rodape a{
+
+	font-size: 20px;
+	color: #999
+}
+
+.rodape h4{
+	font-size: 30px;
+	font-style: italic;
+	color: #999
+}
+
+footer{
+
+background-image: url(http://floriculturasalto.tk/assets/images/fundo1.png);
+
+
+}
+
+.menu-mobile-info ul{
+	list-style: none;
+}
+
+.menu-mobile-info a{
+	color: #999;
+	font-size: 20px;
+}
+
+
+.menu-mobile-info a:hover{
+
+	
+	color: #fff;
+}
+
+.menu-mobile-info li{
+	 
+	width: 200px;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	
+}
+
+.menu-mobile-info li:hover{
+background-color: #363636;
+
+
+}
+
+ .menu-mobile-info{
+
+
+
+ 	display: none;
+ }
+
+ button{
+ 	display: none;
+ }
+
+
+@media only screen AND (max-width: 700px){
+
+
+
+ .menu-mobile-info{
+
+
+
+ 	display: none;
+ }
+
+
+ button{
+ 	display: block;
+ }
+
+
+
+
+.menu-info ul {
+
+	display: none;
+}
+
+
+
+
+
+
+}

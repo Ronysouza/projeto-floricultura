@@ -1,0 +1,91 @@
+.menu-novidades{
+	border:1px solid #ddd;
+	padding: 10px;
+}
+.menu-novidades:hover{
+	background-color: #1C1C1C;
+
+}
+
+
+
+.novidades-info a{
+	color: #999;
+	text-decoration: none;
+	font-size: 20px;
+	 
+}
+
+.novidades-info strong{
+
+	padding-right: 10px;
+	font-size: 30px;
+	color: #000;
+}
+
+
+
+
+.banner-container-carrossel h1{
+
+    /* font-weight: 600; */
+    font-size: 35px;
+    margin-bottom: 44px;
+    font-style: italic;
+
+}
+
+.banner-container-carrossel p{
+	font-size: 20px;
+}
+
+
+
+.rosa-info img{
+
+
+	height: 400px;
+	object-fit: cover;
+	
+	
+}
+
+.rosa-info{
+box-shadow: 4px 1px 10px #EE4F4A;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	 transition: 0.3s;
+	 margin-top: 20px;
+	 margin-bottom: 20px;
+
+}
+
+.rosa-info:hover{
+
+
+	transform: scale(1.04);
+ transition: 0.3s;
+ box-shadow: 4px 1px 25px #B80802;
+}
+
+.rosas-banner h1,h2{
+
+  padding: 10px;
+    font-style: italic;
+    font-size: 35px;
+
+
+}
+
+
+.bottom-coroas h1{
+	font-style: italic;
+	font-size: 38px;
+}
+
+.bottom-coroas p{
+	font-size: 20px;
+}
